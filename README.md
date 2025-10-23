@@ -1,5 +1,4 @@
 # Binance Futures Testnet Trading Bot
-
 This is a simplified trading bot for Binance Futures Testnet (USDT-M) with a Tkinter GUI and CLI fallback.
 
 ## Setup
@@ -45,4 +44,6 @@ python -m bot.ui
 ## Notes
 # - The repository does NOT include real API keys.
 # - To test the bot, you must use your own Binance Testnet API keys.
-# - You can optionally record a demo video showing the bot in action without sharing real keys.
+⚠️ Note: The sample log shows API errors because placeholder API keys were used. 
+To see live trading orders, please use your own Binance Testnet API_KEY and API_SECRET in the .env file.
+
