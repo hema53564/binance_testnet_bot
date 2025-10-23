@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+
+# Ignore logs
+logs/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folder (if inside project)
+venv/
